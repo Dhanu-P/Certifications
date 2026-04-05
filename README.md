@@ -10,6 +10,7 @@ This section showcases my professional certifications and continuous learning jo
 - **SafePOPM – Product Owner/Product Manager (In Progress)**
 - **Gen AI – Product Owner**
 - IBM Product Owner
+- Six Cigma Green Belt
 
 ## External Certificates
 - LOMA 281 – Meeting Customer Needs with Insurance and Annuities
