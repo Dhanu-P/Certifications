@@ -8,7 +8,8 @@ This section showcases my professional certifications and continuous learning jo
 - **ALMI – Associate LOMA Management Institute**
 - **AWS Foundational Cloud Practitioner**
 - **SafePOPM – Product Owner/Product Manager (In Progress)**
-- **Gen AI – Business Analyst (In Progress)**
+- **Gen AI – Product Owner**
+- ** IBM Product Owner*
 
 ## External Certificates
 - LOMA 281 – Meeting Customer Needs with Insurance and Annuities
